@@ -1,0 +1,4405 @@
+{
+  "UserId": 175698286815084545,
+  "DmId": 0,
+  "Mention": "<@!175698286815084545>",
+  "Name": "Ghub",
+  "Char": {
+    "Name": "Ghub",
+    "Mention": "<@!175698286815084545>",
+    "CurrentGuildId": 452818303635685386,
+    "CurrentGuildName": "Project Origin",
+    "ActiveMon": null,
+    "ActiveMons": [],
+    "Party": [
+      {
+        "$type": "ProjectOrigin.Snoril, ProjectOrigin",
+        "BaseList": [
+          90,
+          65,
+          65,
+          85,
+          15
+        ],
+        "Ivs": [
+          16,
+          31,
+          22,
+          27,
+          26
+        ],
+        "Evs": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "NatureMods": [
+          1.0,
+          1.1,
+          1.0,
+          1.0,
+          0.9
+        ],
+        "CurStats": [
+          128,
+          75,
+          65,
+          83,
+          24
+        ],
+        "StatMods": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "NatureList": [
+          "Rash/Att/Def",
+          "Blunt/Att/Aff",
+          "Careful/Att/Spd",
+          "Peaceful/Def/Att",
+          "Stable/Def/Aff",
+          "Sturdy/Def/Spd",
+          "Calm/Aff/Att",
+          "Shy/Aff/Def",
+          "Pensive/Aff/Spd",
+          "Witty/Spd/Att",
+          "Impulsive/Spd/Def",
+          "Hasty/Spd/Aff"
+        ],
+        "SelectedMove": null,
+        "BufferedMove": null,
+        "ActiveMoves": [
+          {
+            "$type": "ProjectOrigin.Drowsy, ProjectOrigin",
+            "Name": "Drowsy",
+            "Description": "The user becomes drowsy and falls asleep, healing its HP to full and removing status conditions.",
+            "Type": {
+              "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+              "Type": "Beast",
+              "Advantages": [
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Disadvantages": [
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Immunities": [
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Description": ""
+            },
+            "Contact": false,
+            "Power": 0,
+            "Accuracy": -1,
+            "MaxPP": 10,
+            "TargetType": "Self",
+            "CurrentPP": 10,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": [],
+            "ValidTargets": [],
+            "TargetNum": -1
+          },
+          {
+            "$type": "ProjectOrigin.Curl, ProjectOrigin",
+            "Name": "Curl",
+            "Description": "The user curls up, increasing its defense by one stage.",
+            "Type": {
+              "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+              "Type": "Beast",
+              "Advantages": [
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Disadvantages": [
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Immunities": [
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Description": ""
+            },
+            "Contact": false,
+            "Power": 0,
+            "Accuracy": -1,
+            "MaxPP": 20,
+            "TargetType": "Self",
+            "CurrentPP": 20,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": [],
+            "ValidTargets": [],
+            "TargetNum": -1
+          },
+          {
+            "$type": "ProjectOrigin.Poke, ProjectOrigin",
+            "Name": "Poke",
+            "Description": "The user pokes their enemy, lowering their defense by one stage.",
+            "Type": {
+              "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+              "Type": "Beast",
+              "Advantages": [
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Disadvantages": [
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Immunities": [
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Description": ""
+            },
+            "Contact": true,
+            "Power": 20,
+            "Accuracy": 100,
+            "MaxPP": 40,
+            "TargetType": "SingleEnemy",
+            "CurrentPP": 40,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": [],
+            "ValidTargets": [],
+            "TargetNum": -1
+          },
+          {
+            "$type": "ProjectOrigin.Tackle, ProjectOrigin",
+            "Name": "Tackle",
+            "Description": "The user tackles their enemy, dealing damage.",
+            "Type": {
+              "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+              "Type": "Beast",
+              "Advantages": [
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Disadvantages": [
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Immunities": [
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Description": ""
+            },
+            "Contact": true,
+            "Power": 40,
+            "Accuracy": 100,
+            "MaxPP": 35,
+            "TargetType": "SingleEnemy",
+            "CurrentPP": 35,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": [],
+            "ValidTargets": [],
+            "TargetNum": -1
+          }
+        ],
+        "Moveset": [
+          {
+            "LearnLevel": 1,
+            "Move": {
+              "$type": "ProjectOrigin.Tackle, ProjectOrigin",
+              "Name": "Tackle",
+              "Description": "The user tackles their enemy, dealing damage.",
+              "Type": {
+                "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                "Type": "Beast",
+                "Advantages": [
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Disadvantages": [
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Immunities": [
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Description": ""
+              },
+              "Contact": true,
+              "Power": 40,
+              "Accuracy": 100,
+              "MaxPP": 35,
+              "TargetType": "SingleEnemy",
+              "CurrentPP": 35,
+              "Disabled": false,
+              "Buffered": false,
+              "Targets": [],
+              "ValidTargets": [],
+              "TargetNum": -1
+            },
+            "Name": null,
+            "Description": null,
+            "Type": null,
+            "Contact": false,
+            "MaxPP": 0,
+            "CurrentPP": 0,
+            "Power": 0,
+            "Accuracy": 0,
+            "TargetType": null,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": null,
+            "ValidTargets": null,
+            "TargetNum": 0
+          },
+          {
+            "LearnLevel": 5,
+            "Move": {
+              "$type": "ProjectOrigin.Poke, ProjectOrigin",
+              "Name": "Poke",
+              "Description": "The user pokes their enemy, lowering their defense by one stage.",
+              "Type": {
+                "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                "Type": "Beast",
+                "Advantages": [
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Disadvantages": [
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Immunities": [
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Description": ""
+              },
+              "Contact": true,
+              "Power": 20,
+              "Accuracy": 100,
+              "MaxPP": 40,
+              "TargetType": "SingleEnemy",
+              "CurrentPP": 40,
+              "Disabled": false,
+              "Buffered": false,
+              "Targets": [],
+              "ValidTargets": [],
+              "TargetNum": -1
+            },
+            "Name": null,
+            "Description": null,
+            "Type": null,
+            "Contact": false,
+            "MaxPP": 0,
+            "CurrentPP": 0,
+            "Power": 0,
+            "Accuracy": 0,
+            "TargetType": null,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": null,
+            "ValidTargets": null,
+            "TargetNum": 0
+          },
+          {
+            "LearnLevel": 7,
+            "Move": {
+              "$type": "ProjectOrigin.Curl, ProjectOrigin",
+              "Name": "Curl",
+              "Description": "The user curls up, increasing its defense by one stage.",
+              "Type": {
+                "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                "Type": "Beast",
+                "Advantages": [
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Disadvantages": [
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Immunities": [
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Description": ""
+              },
+              "Contact": false,
+              "Power": 0,
+              "Accuracy": -1,
+              "MaxPP": 20,
+              "TargetType": "Self",
+              "CurrentPP": 20,
+              "Disabled": false,
+              "Buffered": false,
+              "Targets": [],
+              "ValidTargets": [],
+              "TargetNum": -1
+            },
+            "Name": null,
+            "Description": null,
+            "Type": null,
+            "Contact": false,
+            "MaxPP": 0,
+            "CurrentPP": 0,
+            "Power": 0,
+            "Accuracy": 0,
+            "TargetType": null,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": null,
+            "ValidTargets": null,
+            "TargetNum": 0
+          },
+          {
+            "LearnLevel": 15,
+            "Move": {
+              "$type": "ProjectOrigin.Drowsy, ProjectOrigin",
+              "Name": "Drowsy",
+              "Description": "The user becomes drowsy and falls asleep, healing its HP to full and removing status conditions.",
+              "Type": {
+                "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                "Type": "Beast",
+                "Advantages": [
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Disadvantages": [
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Immunities": [
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Description": ""
+              },
+              "Contact": false,
+              "Power": 0,
+              "Accuracy": -1,
+              "MaxPP": 10,
+              "TargetType": "Self",
+              "CurrentPP": 10,
+              "Disabled": false,
+              "Buffered": false,
+              "Targets": [],
+              "ValidTargets": [],
+              "TargetNum": -1
+            },
+            "Name": null,
+            "Description": null,
+            "Type": null,
+            "Contact": false,
+            "MaxPP": 0,
+            "CurrentPP": 0,
+            "Power": 0,
+            "Accuracy": 0,
+            "TargetType": null,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": null,
+            "ValidTargets": null,
+            "TargetNum": 0
+          }
+        ],
+        "Ability": {
+          "$type": "ProjectOrigin.NoneAbility, ProjectOrigin",
+          "Name": "None",
+          "Description": "No Ability"
+        },
+        "Species": "Snoril",
+        "Typing": [
+          {
+            "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+            "Type": "Beast",
+            "Advantages": [
+              {
+                "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                "Type": "Nature",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              },
+              {
+                "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                "Type": "Primal",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              }
+            ],
+            "Disadvantages": [
+              {
+                "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                "Type": "Fire",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              },
+              {
+                "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                "Type": "Fey",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              },
+              {
+                "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                "Type": "Psychic",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              }
+            ],
+            "Immunities": [
+              {
+                "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                "Type": "Shade",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              }
+            ],
+            "Description": ""
+          },
+          {
+            "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+            "Type": "Beast",
+            "Advantages": null,
+            "Disadvantages": null,
+            "Immunities": null,
+            "Description": ""
+          },
+          {
+            "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+            "Type": "Beast",
+            "Advantages": null,
+            "Disadvantages": null,
+            "Immunities": null,
+            "Description": ""
+          }
+        ],
+        "ArtURL": "https://cdn.discordapp.com/attachments/452818546175770624/589914095390818315/snail.png",
+        "BaseHP": 90,
+        "BaseAtt": 65,
+        "BaseDef": 65,
+        "BaseAff": 85,
+        "BaseSpd": 15,
+        "DexNum": 999,
+        "DexEntry": "Snoril can be found sleeping under shade trees or in small damp caves. They use the glowing orb on their tail to frighten predators. They are born blind and use their excellent sense of hearing and touch to navigate their surroundings.",
+        "OverrideTyping": [],
+        "OverrideType": false,
+        "Nickname": "Snoril",
+        "Gender": "Male",
+        "CatcherID": 175698286815084545,
+        "OwnerID": 175698286815084545,
+        "Level": 40,
+        "Nature": "Careful",
+        "TotalHP": 128,
+        "CurrentHP": 128,
+        "CritChance": 0,
+        "Fainted": false,
+        "IsCombatActive": false,
+        "GenderSymbol": "♂",
+        "Status": {
+          "Paraylzed": false,
+          "Burned": false,
+          "Poisoned": false,
+          "BadlyPoisoned": false,
+          "Frozen": false,
+          "Asleep": false,
+          "Sleepy": 0,
+          "SleepTurns": 0,
+          "Confused": false,
+          "Infatuated": false,
+          "Flinching": false,
+          "Flying": false,
+          "Charged": false,
+          "Name": null,
+          "Description": null,
+          "Type": null,
+          "Contact": false,
+          "MaxPP": 0,
+          "CurrentPP": 0,
+          "Power": 0,
+          "Accuracy": 0,
+          "TargetType": null,
+          "Disabled": false,
+          "Buffered": false,
+          "Targets": null,
+          "ValidTargets": null,
+          "TargetNum": 0
+        }
+      },
+      {
+        "$type": "ProjectOrigin.Ook, ProjectOrigin",
+        "BaseList": [
+          45,
+          65,
+          45,
+          40,
+          55
+        ],
+        "Ivs": [
+          1,
+          24,
+          1,
+          7,
+          25
+        ],
+        "Evs": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "NatureMods": [
+          1.0,
+          1.0,
+          1.0,
+          0.9,
+          1.1
+        ],
+        "CurStats": [
+          86,
+          66,
+          41,
+          35,
+          64
+        ],
+        "StatMods": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "NatureList": [
+          "Rash/Att/Def",
+          "Blunt/Att/Aff",
+          "Careful/Att/Spd",
+          "Peaceful/Def/Att",
+          "Stable/Def/Aff",
+          "Sturdy/Def/Spd",
+          "Calm/Aff/Att",
+          "Shy/Aff/Def",
+          "Pensive/Aff/Spd",
+          "Witty/Spd/Att",
+          "Impulsive/Spd/Def",
+          "Hasty/Spd/Aff"
+        ],
+        "SelectedMove": null,
+        "BufferedMove": null,
+        "ActiveMoves": [
+          {
+            "$type": "ProjectOrigin.Meditate, ProjectOrigin",
+            "Name": "Meditate",
+            "Description": "The user calms themselves, restoring 1/10 of their total HP and raising attack and defense.",
+            "Type": {
+              "$type": "ProjectOrigin.FightingType, ProjectOrigin",
+              "Type": "Fighting",
+              "Advantages": [
+                {
+                  "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                  "Type": "Beast",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.RockType, ProjectOrigin",
+                  "Type": "Rock",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ColdType, ProjectOrigin",
+                  "Type": "Cold",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                  "Type": "Beast",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.RockType, ProjectOrigin",
+                  "Type": "Rock",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ColdType, ProjectOrigin",
+                  "Type": "Cold",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Disadvantages": [
+                {
+                  "$type": "ProjectOrigin.AirType, ProjectOrigin",
+                  "Type": "Air",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                  "Type": "Metal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.AirType, ProjectOrigin",
+                  "Type": "Air",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                  "Type": "Metal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Immunities": [
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Description": ""
+            },
+            "Contact": false,
+            "Power": 0,
+            "Accuracy": -1,
+            "MaxPP": 15,
+            "TargetType": "Self",
+            "CurrentPP": 15,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": [],
+            "ValidTargets": [],
+            "TargetNum": -1
+          },
+          {
+            "$type": "ProjectOrigin.SeismicChop, ProjectOrigin",
+            "Name": "Seismic Chop",
+            "Description": "The enemy mon is tossed in the air and hit with a karate chop.",
+            "Type": {
+              "$type": "ProjectOrigin.FightingType, ProjectOrigin",
+              "Type": "Fighting",
+              "Advantages": [
+                {
+                  "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                  "Type": "Beast",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.RockType, ProjectOrigin",
+                  "Type": "Rock",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ColdType, ProjectOrigin",
+                  "Type": "Cold",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                  "Type": "Beast",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.RockType, ProjectOrigin",
+                  "Type": "Rock",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ColdType, ProjectOrigin",
+                  "Type": "Cold",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Disadvantages": [
+                {
+                  "$type": "ProjectOrigin.AirType, ProjectOrigin",
+                  "Type": "Air",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                  "Type": "Metal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.AirType, ProjectOrigin",
+                  "Type": "Air",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                  "Type": "Metal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Immunities": [
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Description": ""
+            },
+            "Contact": true,
+            "Power": 80,
+            "Accuracy": 90,
+            "MaxPP": 10,
+            "TargetType": "SingleEnemy",
+            "CurrentPP": 10,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": [],
+            "ValidTargets": [],
+            "TargetNum": -1
+          },
+          {
+            "$type": "ProjectOrigin.Roundhouse, ProjectOrigin",
+            "Name": "Roundhouse",
+            "Description": "The user spins around before kicking the target in the face, this intimidates them, sharply lowering their attack",
+            "Type": {
+              "$type": "ProjectOrigin.FightingType, ProjectOrigin",
+              "Type": "Fighting",
+              "Advantages": [
+                {
+                  "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                  "Type": "Beast",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.RockType, ProjectOrigin",
+                  "Type": "Rock",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ColdType, ProjectOrigin",
+                  "Type": "Cold",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                  "Type": "Beast",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.RockType, ProjectOrigin",
+                  "Type": "Rock",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ColdType, ProjectOrigin",
+                  "Type": "Cold",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Disadvantages": [
+                {
+                  "$type": "ProjectOrigin.AirType, ProjectOrigin",
+                  "Type": "Air",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                  "Type": "Metal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.AirType, ProjectOrigin",
+                  "Type": "Air",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                  "Type": "Metal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Immunities": [
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Description": ""
+            },
+            "Contact": true,
+            "Power": 70,
+            "Accuracy": 70,
+            "MaxPP": 15,
+            "TargetType": "SingleEnemy",
+            "CurrentPP": 15,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": [],
+            "ValidTargets": [],
+            "TargetNum": -1
+          },
+          {
+            "$type": "ProjectOrigin.Bite, ProjectOrigin",
+            "Name": "Bite",
+            "Description": "The user chomps down on the opponent.",
+            "Type": {
+              "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+              "Type": "Beast",
+              "Advantages": [
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Disadvantages": [
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Immunities": [
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Description": ""
+            },
+            "Contact": true,
+            "Power": 60,
+            "Accuracy": 100,
+            "MaxPP": 25,
+            "TargetType": "SingleEnemy",
+            "CurrentPP": 25,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": [],
+            "ValidTargets": [],
+            "TargetNum": -1
+          }
+        ],
+        "Moveset": [
+          {
+            "LearnLevel": 1,
+            "Move": {
+              "$type": "ProjectOrigin.Tackle, ProjectOrigin",
+              "Name": "Tackle",
+              "Description": "The user tackles their enemy, dealing damage.",
+              "Type": {
+                "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                "Type": "Beast",
+                "Advantages": [
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Disadvantages": [
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Immunities": [
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Description": ""
+              },
+              "Contact": true,
+              "Power": 40,
+              "Accuracy": 100,
+              "MaxPP": 35,
+              "TargetType": "SingleEnemy",
+              "CurrentPP": 35,
+              "Disabled": false,
+              "Buffered": false,
+              "Targets": [],
+              "ValidTargets": [],
+              "TargetNum": -1
+            },
+            "Name": null,
+            "Description": null,
+            "Type": null,
+            "Contact": false,
+            "MaxPP": 0,
+            "CurrentPP": 0,
+            "Power": 0,
+            "Accuracy": 0,
+            "TargetType": null,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": null,
+            "ValidTargets": null,
+            "TargetNum": 0
+          },
+          {
+            "LearnLevel": 8,
+            "Move": {
+              "$type": "ProjectOrigin.Bite, ProjectOrigin",
+              "Name": "Bite",
+              "Description": "The user chomps down on the opponent.",
+              "Type": {
+                "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                "Type": "Beast",
+                "Advantages": [
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Disadvantages": [
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Immunities": [
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Description": ""
+              },
+              "Contact": true,
+              "Power": 60,
+              "Accuracy": 100,
+              "MaxPP": 25,
+              "TargetType": "SingleEnemy",
+              "CurrentPP": 25,
+              "Disabled": false,
+              "Buffered": false,
+              "Targets": [],
+              "ValidTargets": [],
+              "TargetNum": -1
+            },
+            "Name": null,
+            "Description": null,
+            "Type": null,
+            "Contact": false,
+            "MaxPP": 0,
+            "CurrentPP": 0,
+            "Power": 0,
+            "Accuracy": 0,
+            "TargetType": null,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": null,
+            "ValidTargets": null,
+            "TargetNum": 0
+          },
+          {
+            "LearnLevel": 13,
+            "Move": {
+              "$type": "ProjectOrigin.Roundhouse, ProjectOrigin",
+              "Name": "Roundhouse",
+              "Description": "The user spins around before kicking the target in the face, this intimidates them, sharply lowering their attack",
+              "Type": {
+                "$type": "ProjectOrigin.FightingType, ProjectOrigin",
+                "Type": "Fighting",
+                "Advantages": [
+                  {
+                    "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                    "Type": "Beast",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.RockType, ProjectOrigin",
+                    "Type": "Rock",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ColdType, ProjectOrigin",
+                    "Type": "Cold",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                    "Type": "Beast",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.RockType, ProjectOrigin",
+                    "Type": "Rock",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ColdType, ProjectOrigin",
+                    "Type": "Cold",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Disadvantages": [
+                  {
+                    "$type": "ProjectOrigin.AirType, ProjectOrigin",
+                    "Type": "Air",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                    "Type": "Metal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.AirType, ProjectOrigin",
+                    "Type": "Air",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                    "Type": "Metal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Immunities": [
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Description": ""
+              },
+              "Contact": true,
+              "Power": 70,
+              "Accuracy": 70,
+              "MaxPP": 15,
+              "TargetType": "SingleEnemy",
+              "CurrentPP": 15,
+              "Disabled": false,
+              "Buffered": false,
+              "Targets": [],
+              "ValidTargets": [],
+              "TargetNum": -1
+            },
+            "Name": null,
+            "Description": null,
+            "Type": null,
+            "Contact": false,
+            "MaxPP": 0,
+            "CurrentPP": 0,
+            "Power": 0,
+            "Accuracy": 0,
+            "TargetType": null,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": null,
+            "ValidTargets": null,
+            "TargetNum": 0
+          },
+          {
+            "LearnLevel": 16,
+            "Move": {
+              "$type": "ProjectOrigin.SeismicChop, ProjectOrigin",
+              "Name": "Seismic Chop",
+              "Description": "The enemy mon is tossed in the air and hit with a karate chop.",
+              "Type": {
+                "$type": "ProjectOrigin.FightingType, ProjectOrigin",
+                "Type": "Fighting",
+                "Advantages": [
+                  {
+                    "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                    "Type": "Beast",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.RockType, ProjectOrigin",
+                    "Type": "Rock",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ColdType, ProjectOrigin",
+                    "Type": "Cold",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                    "Type": "Beast",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.RockType, ProjectOrigin",
+                    "Type": "Rock",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ColdType, ProjectOrigin",
+                    "Type": "Cold",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Disadvantages": [
+                  {
+                    "$type": "ProjectOrigin.AirType, ProjectOrigin",
+                    "Type": "Air",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                    "Type": "Metal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.AirType, ProjectOrigin",
+                    "Type": "Air",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                    "Type": "Metal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Immunities": [
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Description": ""
+              },
+              "Contact": true,
+              "Power": 80,
+              "Accuracy": 90,
+              "MaxPP": 10,
+              "TargetType": "SingleEnemy",
+              "CurrentPP": 10,
+              "Disabled": false,
+              "Buffered": false,
+              "Targets": [],
+              "ValidTargets": [],
+              "TargetNum": -1
+            },
+            "Name": null,
+            "Description": null,
+            "Type": null,
+            "Contact": false,
+            "MaxPP": 0,
+            "CurrentPP": 0,
+            "Power": 0,
+            "Accuracy": 0,
+            "TargetType": null,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": null,
+            "ValidTargets": null,
+            "TargetNum": 0
+          },
+          {
+            "LearnLevel": 22,
+            "Move": {
+              "$type": "ProjectOrigin.Meditate, ProjectOrigin",
+              "Name": "Meditate",
+              "Description": "The user calms themselves, restoring 1/10 of their total HP and raising attack and defense.",
+              "Type": {
+                "$type": "ProjectOrigin.FightingType, ProjectOrigin",
+                "Type": "Fighting",
+                "Advantages": [
+                  {
+                    "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                    "Type": "Beast",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.RockType, ProjectOrigin",
+                    "Type": "Rock",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ColdType, ProjectOrigin",
+                    "Type": "Cold",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                    "Type": "Beast",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.RockType, ProjectOrigin",
+                    "Type": "Rock",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ColdType, ProjectOrigin",
+                    "Type": "Cold",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Disadvantages": [
+                  {
+                    "$type": "ProjectOrigin.AirType, ProjectOrigin",
+                    "Type": "Air",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                    "Type": "Metal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.AirType, ProjectOrigin",
+                    "Type": "Air",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                    "Type": "Metal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Immunities": [
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Description": ""
+              },
+              "Contact": false,
+              "Power": 0,
+              "Accuracy": -1,
+              "MaxPP": 15,
+              "TargetType": "Self",
+              "CurrentPP": 15,
+              "Disabled": false,
+              "Buffered": false,
+              "Targets": [],
+              "ValidTargets": [],
+              "TargetNum": -1
+            },
+            "Name": null,
+            "Description": null,
+            "Type": null,
+            "Contact": false,
+            "MaxPP": 0,
+            "CurrentPP": 0,
+            "Power": 0,
+            "Accuracy": 0,
+            "TargetType": null,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": null,
+            "ValidTargets": null,
+            "TargetNum": 0
+          }
+        ],
+        "Ability": {
+          "$type": "ProjectOrigin.NoneAbility, ProjectOrigin",
+          "Name": "None",
+          "Description": "No Ability"
+        },
+        "Species": "Ook",
+        "Typing": [
+          {
+            "$type": "ProjectOrigin.FightingType, ProjectOrigin",
+            "Type": "Fighting",
+            "Advantages": [
+              {
+                "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                "Type": "Beast",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              },
+              {
+                "$type": "ProjectOrigin.RockType, ProjectOrigin",
+                "Type": "Rock",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              },
+              {
+                "$type": "ProjectOrigin.ColdType, ProjectOrigin",
+                "Type": "Cold",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              }
+            ],
+            "Disadvantages": [
+              {
+                "$type": "ProjectOrigin.AirType, ProjectOrigin",
+                "Type": "Air",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              },
+              {
+                "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                "Type": "Metal",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              },
+              {
+                "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                "Type": "Psychic",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              }
+            ],
+            "Immunities": [
+              {
+                "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                "Type": "Shade",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              }
+            ],
+            "Description": ""
+          },
+          {
+            "$type": "ProjectOrigin.FightingType, ProjectOrigin",
+            "Type": "Fighting",
+            "Advantages": null,
+            "Disadvantages": null,
+            "Immunities": null,
+            "Description": ""
+          }
+        ],
+        "ArtURL": "https://cdn.discordapp.com/attachments/438843122361827331/723424724209893437/Ook.png",
+        "BaseHP": 45,
+        "BaseAtt": 65,
+        "BaseDef": 45,
+        "BaseAff": 40,
+        "BaseSpd": 55,
+        "DexNum": 999,
+        "DexEntry": "The primal monkey mon. Ook can smell berries that trainers have tucked away and will fight for them.",
+        "OverrideTyping": [],
+        "OverrideType": false,
+        "Nickname": "Ook",
+        "Gender": "Male",
+        "CatcherID": 175698286815084545,
+        "OwnerID": 175698286815084545,
+        "Level": 40,
+        "Nature": "Hasty",
+        "TotalHP": 86,
+        "CurrentHP": 86,
+        "CritChance": 0,
+        "Fainted": false,
+        "IsCombatActive": false,
+        "GenderSymbol": "♂",
+        "Status": {
+          "Paraylzed": false,
+          "Burned": false,
+          "Poisoned": false,
+          "BadlyPoisoned": false,
+          "Frozen": false,
+          "Asleep": false,
+          "Sleepy": 0,
+          "SleepTurns": 0,
+          "Confused": false,
+          "Infatuated": false,
+          "Flinching": false,
+          "Flying": false,
+          "Charged": false,
+          "Name": null,
+          "Description": null,
+          "Type": null,
+          "Contact": false,
+          "MaxPP": 0,
+          "CurrentPP": 0,
+          "Power": 0,
+          "Accuracy": 0,
+          "TargetType": null,
+          "Disabled": false,
+          "Buffered": false,
+          "Targets": null,
+          "ValidTargets": null,
+          "TargetNum": 0
+        }
+      },
+      {
+        "$type": "ProjectOrigin.Arness, ProjectOrigin",
+        "BaseList": [
+          45,
+          75,
+          70,
+          40,
+          40
+        ],
+        "Ivs": [
+          24,
+          13,
+          30,
+          1,
+          24
+        ],
+        "Evs": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "NatureMods": [
+          1.0,
+          1.0,
+          1.1,
+          0.9,
+          1.0
+        ],
+        "CurStats": [
+          95,
+          70,
+          80,
+          33,
+          46
+        ],
+        "StatMods": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "NatureList": [
+          "Rash/Att/Def",
+          "Blunt/Att/Aff",
+          "Careful/Att/Spd",
+          "Peaceful/Def/Att",
+          "Stable/Def/Aff",
+          "Sturdy/Def/Spd",
+          "Calm/Aff/Att",
+          "Shy/Aff/Def",
+          "Pensive/Aff/Spd",
+          "Witty/Spd/Att",
+          "Impulsive/Spd/Def",
+          "Hasty/Spd/Aff"
+        ],
+        "SelectedMove": null,
+        "BufferedMove": null,
+        "ActiveMoves": [
+          {
+            "$type": "ProjectOrigin.NetherPunch, ProjectOrigin",
+            "Name": "Nether Punch",
+            "Description": "The user swings a punch from the nether dimension.",
+            "Type": {
+              "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+              "Type": "Shade",
+              "Advantages": [
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Disadvantages": [
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Immunities": [
+                {
+                  "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                  "Type": "Beast",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                  "Type": "Beast",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Description": ""
+            },
+            "Contact": true,
+            "Power": 80,
+            "Accuracy": 90,
+            "MaxPP": 15,
+            "TargetType": "SingleEnemy",
+            "CurrentPP": 15,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": [],
+            "ValidTargets": [],
+            "TargetNum": -1
+          },
+          {
+            "$type": "ProjectOrigin.Teleport, ProjectOrigin",
+            "Name": "Teleport",
+            "Description": "The user teleports away.",
+            "Type": {
+              "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+              "Type": "Shade",
+              "Advantages": [
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Disadvantages": [
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Immunities": [
+                {
+                  "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                  "Type": "Beast",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                  "Type": "Beast",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Description": ""
+            },
+            "Contact": true,
+            "Power": 0,
+            "Accuracy": -1,
+            "MaxPP": 20,
+            "TargetType": "Self",
+            "CurrentPP": 20,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": [],
+            "ValidTargets": [],
+            "TargetNum": -1
+          },
+          {
+            "$type": "ProjectOrigin.Disarm, ProjectOrigin",
+            "Name": "Disarm",
+            "Description": "The user disables the move the opponent used or will use this turn. Fails if the opponent already has a move disabled.",
+            "Type": {
+              "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+              "Type": "Psychic",
+              "Advantages": [
+                {
+                  "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                  "Type": "Beast",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                  "Type": "Metal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                  "Type": "Beast",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                  "Type": "Metal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Disadvantages": [
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Immunities": [],
+              "Description": ""
+            },
+            "Contact": false,
+            "Power": 0,
+            "Accuracy": 100,
+            "MaxPP": 10,
+            "TargetType": "SingleEnemy",
+            "CurrentPP": 10,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": [],
+            "ValidTargets": [],
+            "TargetNum": -1
+          },
+          {
+            "$type": "ProjectOrigin.Headbutt, ProjectOrigin",
+            "Name": "Headbutt",
+            "Description": "The user hits the opponent with its head, dealing damage and potentially causing them to flinch.",
+            "Type": {
+              "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+              "Type": "Beast",
+              "Advantages": [
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                  "Type": "Nature",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                  "Type": "Primal",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Disadvantages": [
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                  "Type": "Fire",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                  "Type": "Fey",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                  "Type": "Psychic",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Immunities": [
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                },
+                {
+                  "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                  "Type": "Shade",
+                  "Advantages": null,
+                  "Disadvantages": null,
+                  "Immunities": null,
+                  "Description": ""
+                }
+              ],
+              "Description": ""
+            },
+            "Contact": true,
+            "Power": 70,
+            "Accuracy": 100,
+            "MaxPP": 15,
+            "TargetType": "SingleEnemy",
+            "CurrentPP": 15,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": [],
+            "ValidTargets": [],
+            "TargetNum": -1
+          }
+        ],
+        "Moveset": [
+          {
+            "LearnLevel": 1,
+            "Move": {
+              "$type": "ProjectOrigin.Tackle, ProjectOrigin",
+              "Name": "Tackle",
+              "Description": "The user tackles their enemy, dealing damage.",
+              "Type": {
+                "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                "Type": "Beast",
+                "Advantages": [
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Disadvantages": [
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Immunities": [
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Description": ""
+              },
+              "Contact": true,
+              "Power": 40,
+              "Accuracy": 100,
+              "MaxPP": 35,
+              "TargetType": "SingleEnemy",
+              "CurrentPP": 35,
+              "Disabled": false,
+              "Buffered": false,
+              "Targets": [],
+              "ValidTargets": [],
+              "TargetNum": -1
+            },
+            "Name": null,
+            "Description": null,
+            "Type": null,
+            "Contact": false,
+            "MaxPP": 0,
+            "CurrentPP": 0,
+            "Power": 0,
+            "Accuracy": 0,
+            "TargetType": null,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": null,
+            "ValidTargets": null,
+            "TargetNum": 0
+          },
+          {
+            "LearnLevel": 8,
+            "Move": {
+              "$type": "ProjectOrigin.Headbutt, ProjectOrigin",
+              "Name": "Headbutt",
+              "Description": "The user hits the opponent with its head, dealing damage and potentially causing them to flinch.",
+              "Type": {
+                "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                "Type": "Beast",
+                "Advantages": [
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.NatureType, ProjectOrigin",
+                    "Type": "Nature",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PrimalType, ProjectOrigin",
+                    "Type": "Primal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Disadvantages": [
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Immunities": [
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Description": ""
+              },
+              "Contact": true,
+              "Power": 70,
+              "Accuracy": 100,
+              "MaxPP": 15,
+              "TargetType": "SingleEnemy",
+              "CurrentPP": 15,
+              "Disabled": false,
+              "Buffered": false,
+              "Targets": [],
+              "ValidTargets": [],
+              "TargetNum": -1
+            },
+            "Name": null,
+            "Description": null,
+            "Type": null,
+            "Contact": false,
+            "MaxPP": 0,
+            "CurrentPP": 0,
+            "Power": 0,
+            "Accuracy": 0,
+            "TargetType": null,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": null,
+            "ValidTargets": null,
+            "TargetNum": 0
+          },
+          {
+            "LearnLevel": 13,
+            "Move": {
+              "$type": "ProjectOrigin.Disarm, ProjectOrigin",
+              "Name": "Disarm",
+              "Description": "The user disables the move the opponent used or will use this turn. Fails if the opponent already has a move disabled.",
+              "Type": {
+                "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                "Type": "Psychic",
+                "Advantages": [
+                  {
+                    "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                    "Type": "Beast",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                    "Type": "Metal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                    "Type": "Beast",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.MetalType, ProjectOrigin",
+                    "Type": "Metal",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Disadvantages": [
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Immunities": [],
+                "Description": ""
+              },
+              "Contact": false,
+              "Power": 0,
+              "Accuracy": 100,
+              "MaxPP": 10,
+              "TargetType": "SingleEnemy",
+              "CurrentPP": 10,
+              "Disabled": false,
+              "Buffered": false,
+              "Targets": [],
+              "ValidTargets": [],
+              "TargetNum": -1
+            },
+            "Name": null,
+            "Description": null,
+            "Type": null,
+            "Contact": false,
+            "MaxPP": 0,
+            "CurrentPP": 0,
+            "Power": 0,
+            "Accuracy": 0,
+            "TargetType": null,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": null,
+            "ValidTargets": null,
+            "TargetNum": 0
+          },
+          {
+            "LearnLevel": 16,
+            "Move": {
+              "$type": "ProjectOrigin.Teleport, ProjectOrigin",
+              "Name": "Teleport",
+              "Description": "The user teleports away.",
+              "Type": {
+                "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                "Type": "Shade",
+                "Advantages": [
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Disadvantages": [
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Immunities": [
+                  {
+                    "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                    "Type": "Beast",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                    "Type": "Beast",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Description": ""
+              },
+              "Contact": true,
+              "Power": 0,
+              "Accuracy": -1,
+              "MaxPP": 20,
+              "TargetType": "Self",
+              "CurrentPP": 20,
+              "Disabled": false,
+              "Buffered": false,
+              "Targets": [],
+              "ValidTargets": [],
+              "TargetNum": -1
+            },
+            "Name": null,
+            "Description": null,
+            "Type": null,
+            "Contact": false,
+            "MaxPP": 0,
+            "CurrentPP": 0,
+            "Power": 0,
+            "Accuracy": 0,
+            "TargetType": null,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": null,
+            "ValidTargets": null,
+            "TargetNum": 0
+          },
+          {
+            "LearnLevel": 22,
+            "Move": {
+              "$type": "ProjectOrigin.NetherPunch, ProjectOrigin",
+              "Name": "Nether Punch",
+              "Description": "The user swings a punch from the nether dimension.",
+              "Type": {
+                "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                "Type": "Shade",
+                "Advantages": [
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                    "Type": "Fire",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                    "Type": "Shade",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                    "Type": "Psychic",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Disadvantages": [
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                    "Type": "Fey",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Immunities": [
+                  {
+                    "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                    "Type": "Beast",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  },
+                  {
+                    "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                    "Type": "Beast",
+                    "Advantages": null,
+                    "Disadvantages": null,
+                    "Immunities": null,
+                    "Description": ""
+                  }
+                ],
+                "Description": ""
+              },
+              "Contact": true,
+              "Power": 80,
+              "Accuracy": 90,
+              "MaxPP": 15,
+              "TargetType": "SingleEnemy",
+              "CurrentPP": 15,
+              "Disabled": false,
+              "Buffered": false,
+              "Targets": [],
+              "ValidTargets": [],
+              "TargetNum": -1
+            },
+            "Name": null,
+            "Description": null,
+            "Type": null,
+            "Contact": false,
+            "MaxPP": 0,
+            "CurrentPP": 0,
+            "Power": 0,
+            "Accuracy": 0,
+            "TargetType": null,
+            "Disabled": false,
+            "Buffered": false,
+            "Targets": null,
+            "ValidTargets": null,
+            "TargetNum": 0
+          }
+        ],
+        "Ability": {
+          "$type": "ProjectOrigin.NoneAbility, ProjectOrigin",
+          "Name": "None",
+          "Description": "No Ability"
+        },
+        "Species": "Arness",
+        "Typing": [
+          {
+            "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+            "Type": "Shade",
+            "Advantages": [
+              {
+                "$type": "ProjectOrigin.FireType, ProjectOrigin",
+                "Type": "Fire",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              },
+              {
+                "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+                "Type": "Shade",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              },
+              {
+                "$type": "ProjectOrigin.PsychicType, ProjectOrigin",
+                "Type": "Psychic",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              }
+            ],
+            "Disadvantages": [
+              {
+                "$type": "ProjectOrigin.FeyType, ProjectOrigin",
+                "Type": "Fey",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              }
+            ],
+            "Immunities": [
+              {
+                "$type": "ProjectOrigin.BeastType, ProjectOrigin",
+                "Type": "Beast",
+                "Advantages": null,
+                "Disadvantages": null,
+                "Immunities": null,
+                "Description": ""
+              }
+            ],
+            "Description": ""
+          },
+          {
+            "$type": "ProjectOrigin.ShadeType, ProjectOrigin",
+            "Type": "Shade",
+            "Advantages": null,
+            "Disadvantages": null,
+            "Immunities": null,
+            "Description": ""
+          }
+        ],
+        "ArtURL": "https://cdn.discordapp.com/attachments/438843122361827331/722698366084972544/Arness.png",
+        "BaseHP": 45,
+        "BaseAtt": 75,
+        "BaseDef": 70,
+        "BaseAff": 40,
+        "BaseSpd": 40,
+        "DexNum": 999,
+        "DexEntry": "Arness is forever chained to the ground.",
+        "OverrideTyping": [],
+        "OverrideType": false,
+        "Nickname": "Arness",
+        "Gender": "Female",
+        "CatcherID": 175698286815084545,
+        "OwnerID": 175698286815084545,
+        "Level": 40,
+        "Nature": "Stable",
+        "TotalHP": 95,
+        "CurrentHP": 95,
+        "CritChance": 0,
+        "Fainted": false,
+        "IsCombatActive": false,
+        "GenderSymbol": "♀",
+        "Status": {
+          "Paraylzed": false,
+          "Burned": false,
+          "Poisoned": false,
+          "BadlyPoisoned": false,
+          "Frozen": false,
+          "Asleep": false,
+          "Sleepy": 0,
+          "SleepTurns": 0,
+          "Confused": false,
+          "Infatuated": false,
+          "Flinching": false,
+          "Flying": false,
+          "Charged": false,
+          "Name": null,
+          "Description": null,
+          "Type": null,
+          "Contact": false,
+          "MaxPP": 0,
+          "CurrentPP": 0,
+          "Power": 0,
+          "Accuracy": 0,
+          "TargetType": null,
+          "Disabled": false,
+          "Buffered": false,
+          "Targets": null,
+          "ValidTargets": null,
+          "TargetNum": 0
+        }
+      }
+    ],
+    "PC": [],
+    "ReadyUp": false,
+    "CombatRequest": 0,
+    "InCombat": false,
+    "InPvpCombat": false,
+    "CombatEliminated": false,
+    "CombatId": -1,
+    "MoveScreenNum": 0,
+    "TargetPage": 0,
+    "CombatMovesEntered": false,
+    "SwapMonNum": -1,
+    "SwapMode": false
+  },
+  "AvatarUrl": "https://cdn.discordapp.com/avatars/175698286815084545/d6b9f2584ef8bb36dc0dda68d747adbe.png?size=128",
+  "HasCharacter": true,
+  "PromptState": -1,
+  "ReactionMessages": {},
+  "InviteMessages": {},
+  "ExpectedInput": -1,
+  "ExpectedInputLocation": 0
+}

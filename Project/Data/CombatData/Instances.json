@@ -1,0 +1,69 @@
+{
+  "1": {
+    "Location": {
+      "UserId": 193835012917952512,
+      "ChannelId": 809906288711565324,
+      "GuildId": 696626299388690433,
+      "MessageId": 0
+    },
+    "Teams": [
+      {
+        "TeamName": "Scared Sukis",
+        "MemberIDs": [
+          175698286815084545
+        ],
+        "MemberLimit": 1,
+        "TeamNum": 1,
+        "MultiNum": 1,
+        "Eliminated": false,
+        "TeamR": 159,
+        "TeamG": 52,
+        "TeamB": 67,
+        "Picture": "https://cdn.discordapp.com/emojis/732682490833141810.png?v=1",
+        "Permissions": "OwnerOnly",
+        "OpenInvite": false
+      },
+      {
+        "TeamName": "Muddy Fellowship",
+        "MemberIDs": [
+          193835012917952512
+        ],
+        "MemberLimit": 1,
+        "TeamNum": 2,
+        "MultiNum": 1,
+        "Eliminated": true,
+        "TeamR": 156,
+        "TeamG": 200,
+        "TeamB": 84,
+        "Picture": "https://cdn.discordapp.com/emojis/732682490833141810.png?v=1",
+        "Permissions": "OwnerOnly",
+        "OpenInvite": false
+      }
+    ],
+    "Players": [],
+    "Environment": {
+      "Clear": true,
+      "Moonrise": false,
+      "Sunrise": false,
+      "Heatwave": false,
+      "Drought": false,
+      "Eclipse": false,
+      "Rain": false,
+      "Hail": false,
+      "Sandstorm": false,
+      "Tailwind": false,
+      "IonizedAir": false,
+      "Fog": false,
+      "Mist": false,
+      "Sleet": false,
+      "SevereHailstorm": false,
+      "Thunderstorm": false,
+      "Apocalypse": false,
+      "WeatherLevel": 0
+    },
+    "CombatPhase": 0,
+    "IsPvP": true,
+    "IsOneOnOne": true,
+    "CombatOver": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "UserId": 581599834033881102,
+  "DmId": 0,
+  "Mention": "<@!581599834033881102>",
+  "Name": "MonBot",
+  "Char": null,
+  "AvatarUrl": "https://cdn.discordapp.com/attachments/453016453071896586/1057151543079608360/snoril.png",
+  "HasCharacter": false,
+  "PromptState": -1,
+  "ReactionMessages": {},
+  "InviteMessages": {},
+  "ExpectedInput": -1,
+  "ExpectedInputLocation": 0
+}
